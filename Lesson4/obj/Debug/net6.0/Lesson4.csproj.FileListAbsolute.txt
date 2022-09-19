@@ -1,0 +1,15 @@
+C:\Repositories\itProger\Lesson4\bin\Debug\net6.0\Lesson4.exe
+C:\Repositories\itProger\Lesson4\bin\Debug\net6.0\Lesson4.deps.json
+C:\Repositories\itProger\Lesson4\bin\Debug\net6.0\Lesson4.runtimeconfig.json
+C:\Repositories\itProger\Lesson4\bin\Debug\net6.0\Lesson4.dll
+C:\Repositories\itProger\Lesson4\bin\Debug\net6.0\Lesson4.pdb
+C:\Repositories\itProger\Lesson4\obj\Debug\net6.0\Lesson4.csproj.AssemblyReference.cache
+C:\Repositories\itProger\Lesson4\obj\Debug\net6.0\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositories\itProger\Lesson4\obj\Debug\net6.0\Lesson4.AssemblyInfoInputs.cache
+C:\Repositories\itProger\Lesson4\obj\Debug\net6.0\Lesson4.AssemblyInfo.cs
+C:\Repositories\itProger\Lesson4\obj\Debug\net6.0\Lesson4.csproj.CoreCompileInputs.cache
+C:\Repositories\itProger\Lesson4\obj\Debug\net6.0\Lesson4.dll
+C:\Repositories\itProger\Lesson4\obj\Debug\net6.0\refint\Lesson4.dll
+C:\Repositories\itProger\Lesson4\obj\Debug\net6.0\Lesson4.pdb
+C:\Repositories\itProger\Lesson4\obj\Debug\net6.0\Lesson4.genruntimeconfig.cache
+C:\Repositories\itProger\Lesson4\obj\Debug\net6.0\ref\Lesson4.dll
