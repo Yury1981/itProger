@@ -1,0 +1,36 @@
+﻿using System;
+
+namespace Lesson10
+{
+    class Program
+    {
+        static void Main()
+        {
+            // Print("Hello");
+            // string words = "Hello world";
+            // Print(words);
+            //Print();
+            // Summa(5, 6);
+            // int a = 4, b = 7;
+            // Summa(a, b);
+            int res1 = Summa(5, 9);
+            int a = 4, b = 7;
+            int res2 = Summa(a, b);
+            Print(res1.ToString());
+            Print(res2.ToString());
+        }
+        public static void Print(string word)
+        {
+            Console.WriteLine(word);
+        }
+        // public static void Summa(int x, int y)
+        public static int Summa(int x, int y)
+        {
+            // int res = x + y;
+            // Print("Res: " + res);
+            return x + y;
+        }
+        
+        
+    }
+}
