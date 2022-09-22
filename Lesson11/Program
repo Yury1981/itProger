@@ -1,0 +1,34 @@
+﻿using System;
+
+namespace Lesson11
+{
+    class Program
+    {
+        static void Main()
+        {
+            string word = "Hello";
+            word += "!";
+
+            // char[] sym = {'s', 'o', 'm', 'e'};
+
+            // Console.WriteLine(word);
+            // Console.WriteLine(sym);
+            // Console.WriteLine(word[1]);
+            // Console.WriteLine(word.Length);
+            // word = string.Concat(word, "!!");
+            // Console.WriteLine(word);
+            // Console.WriteLine(String.Compare(word, "Hello!!!"));
+
+            // string people = "Alex,Bob,John";
+            // string[] names = people.Split(new char[]{','});
+            // foreach(string el in names)
+            //     Console.WriteLine(el);
+            // people = String.Join(" ", names);
+            // Console.WriteLine(people);
+
+            // Console.WriteLine(word.Trim());
+            // Console.WriteLine(word.Substring(0, word.Length - 1));
+            Console.WriteLine(word.ToUpper());
+        }
+    }
+}
