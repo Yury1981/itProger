@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Lesson
+namespace Lesson13
 {
-    class Program13
+    class Program
     {
         static void Main()
         {
