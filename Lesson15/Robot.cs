@@ -8,28 +8,28 @@ namespace Lesson14{
         private int weight;
         private byte[] coordinates = null!;
 
-        public Robot(string _name, int _weight, byte[] _coordinates) {
+        public Robot(string name, int weight, byte[] coordinates) {
             Console.WriteLine("Object has been created");
-            setValues(_name, _weight, _coordinates);
+            this.setValues(name, weight, coordinates);
             count++;
         }
 
-        public Robot(string _name) {
+        public Robot(string name) {
             Console.WriteLine("Object has been created");
-           name = _name;
+           this.name = name;
            count++;
         }
 
         public Robot() {count++;}
 
-        public void setValues(string _name, int _weight, byte[] _coordinates){
-            name = _name;
-            weight = _weight;
-            coordinates = _coordinates;
+        public void setValues(string name, int weight, byte[] coordinates){
+            this.name = name;
+            this.weight = weight;
+            this.coordinates = coordinates;
         }
         public void printValues(){
-            Console.Write(name + " weight: " + weight + ". Coordinates: ");
-            foreach(byte el in coordinates)
+            Console.Write(this.name + " weight: " + this.weight + ". Coordinates: ");
+            foreach(byte el in this.coordinates)
                 Console.Write(el + ", ");
             Console.WriteLine();
         }
